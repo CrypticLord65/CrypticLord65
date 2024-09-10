@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CrypticLord65
+- 👀 I’m interested in: Scripting
+- 🌱 I’m currently learning: JavaScript
+- 💞️ I’m looking to collaborate on: Studio projects for game development.
+- 📫 How to reach me: CrypticLord65 on Discord.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been programming for more than 4 years.
